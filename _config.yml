@@ -25,9 +25,9 @@ author:
   name             : "Md Ashik Mahmud"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Student, Department of Applied Chemistry and Chemical Engineering, University of Rajshahi, Rajshahi 6205, Bangladesh."
-  location         : "Rājshāhi, Rajshahi Division, Bangladesh"
+  location         : "Rājshāhi, Bangladesh"
   employer         : "University of Rajshahi"
-  uri              : # URL
+  uri              : "ru.ac.bd" # URL
   email            : "s2010175144@ru.ac.bd" 
 
   # Academic websites
