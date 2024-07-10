@@ -6,7 +6,7 @@ main:
   - title: "Research"
     url: /talks/    
 
-  - title: ""
+  - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -17,4 +17,7 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+  - title: "Simulations"
+    url: /simulations/
     
