@@ -31,12 +31,8 @@ author:
   email            : "s2010175144@ru.ac.bd" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=AFvVX4kAAAAJ&hl"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2478-9993"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Md-Mahmud-66" # URL
 
   # Repositories and software development
