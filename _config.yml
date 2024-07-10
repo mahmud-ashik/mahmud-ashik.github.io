@@ -21,29 +21,29 @@ repository               : "mahmud-ashik/mahmud-ashik.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "Md-Mahmud-66.png"
+  name             : "Md Ashik Mahmud"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Student, Department of Applied Chemistry and Chemical Engineering, University of Rajshahi, Rajshahi 6205, Bangladesh."
+  location         : "Rājshāhi, Rajshahi Division, Bangladesh"
+  employer         : "University of Rajshahi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s2010175144@ru.ac.bd" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2478-9993"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Md-Mahmud-66" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "mahmud-ashik"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "md-ashik-mahmud-ru" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
