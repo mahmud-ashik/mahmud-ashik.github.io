@@ -1,0 +1,13 @@
+---
+title: "Review of the 3D bioprinting methods and materials applicable in 4D bioprinting"
+collection: publications
+permalink: /publication/paper01-4d-bioprinting
+excerpt: 'The advent of 4D bioprinting, a technique that integrates time dimensions into the conventional 3D method, substantially changed tissue engineering. By providing a time dimension to conventional 3D printing, the innovative process of 4D bioprinting is revolutionising tissue engineering. This development allows the creation of dynamic tissues, allowing structures to change and adapt over time to reflect the complexity of natural tissues. Specifically, shape memory polymers enable customised scaffold fabrication with improved mechanical strength and biomimicry for use in bone tissue engineering. An essential additional use for soft tissue regeneration is the development of injectable thermosensitive hydrogels that react to body temperature. Within asymmetrical defect regions, these hydrogels gel, offering a flexible cure for healing injured soft tissues. In addition to structural considerations, the potential applications of 4D bioprinting include organisms,vascularisation and dynamic disease models. Despite the advancements, issues like suitable biocompatibility and long-term stability still need to be resolved. However,by creating complex, adaptable and patient-specific designs in the realm of tissueengineering, 4D bioprinting has enormous potential to transform personalised medicine and regenerative therapies. This review provides a comprehensive investigation into the future of regenerative medicine by exploring the various uses and potentially revolutionary effects of 4D bioprinting in tissue engineering.'
+date: 2024-07-02
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
